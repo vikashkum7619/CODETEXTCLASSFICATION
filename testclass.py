@@ -27,7 +27,7 @@ def predict(model, vectorizer, text):
     print(pred)
 
 
-    return pred[
+    return pred
 
 
 
